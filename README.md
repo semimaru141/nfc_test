@@ -1,0 +1,3 @@
+# 概要
+ReactNativeでNFCの挙動を確認するために作成したアプリケーション
+公開していないため、FirebaseDistribution経由でダウンロードする必要がある
